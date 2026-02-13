@@ -1,2 +1,5 @@
 # attempts_2_reproduce
-attempts to reproduce some papers
+## attemp 1 about knockoff
+Generally aligning to the outcome demonstrated in the paper, though the specific data seem to be slightly higher in my attempt, which might because of the smaller number of trials. 
+
+Which is waiting to be tested: different models except lasso; different distribution except Gaussian where the noise belong; the real data regarding medical health provided in the paper (maybe require higher performance computers), etc.
